@@ -4,19 +4,24 @@
 
 /**
  * main - Entry point
- * Description: 'what the program those
+ * Description: 'what this program those
  * in quotes.'
  * Return: Always 0 (success)
  */
 
 int main(void)
 {
-	char low;
+	int low;
+	int high;
 
 	for (low = 'a' ; low <= 'z' ; low++)
 	{
 		putchar(low);
 	}
-	putchar('\n')
+	for (high = 'A' ; high <= 'Z' ; high++)
+	{
+		putchar(high);
+	}
+	putchar('\n');
 	return (0);
 }
