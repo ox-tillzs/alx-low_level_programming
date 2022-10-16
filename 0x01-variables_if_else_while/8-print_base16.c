@@ -4,7 +4,7 @@
 
 /**
  * main Entry point
- * Description: 'what does the program print
+ * Description: 'program
  * in quotes.'
  * Return: Always n0 (success)
  */
