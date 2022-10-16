@@ -3,10 +3,10 @@
 #include <stdio.h>
 
 /**
- * main Entry point
- * Description: 'identify what to print
- * in the quotes.'
- * Return: Always n0 (success)
+ * main - Entry point
+ * Description: the program prints the hexidecimal number of a base of number
+ * evaulating some conditions
+ * Return: Always 0 for success
  */
 
 int main(void)
