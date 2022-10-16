@@ -4,8 +4,8 @@
 
 /**
  * main Entry point
- * Description: 'program
- * in quotes.'
+ * Description: 'identify what to print
+ * in the quotes.'
  * Return: Always n0 (success)
  */
 
