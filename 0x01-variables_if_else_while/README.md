@@ -10,3 +10,4 @@ task 8 8-print_base16.c Write a program that prints all the numbers of base 16 i
 task 9 9-print_comb.c Write a program that prints all possible combinations of single-digit numbers.
 task 10 100-print_comb3 Write a program that prints all possible different combinations of two digits.
 task 11 101-print_comb4.c Write a program that prints all possible different combinations of three digits.
+task 12 102-print_comb5 Write a program that prints all possible combinations of two two-digit numbers.
